@@ -1,1 +1,8 @@
-menambahkan fila baru
+let lastName;
+lastName = "ahyd";
+
+console.log(lastName);
+let fullName = (lastName = (params) => {
+  
+}
+                
