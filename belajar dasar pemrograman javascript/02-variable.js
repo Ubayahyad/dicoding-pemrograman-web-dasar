@@ -1,7 +1,7 @@
 let lastName;
-lastName = "ahyd";
+lastName = "ahyad";
 
-console.log(lastName);
-let fullName = (lastName = (params) => {
-  
-}
+console.log;
+lastName;
+
+let fullName = (lastName = "ahyd"); // (lastName = "ahyd")
